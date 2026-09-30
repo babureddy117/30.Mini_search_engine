@@ -1,0 +1,6 @@
+Machine learning is a subset of artificial intelligence that enables computers to learn 
+from data without being explicitly programmed. It uses algorithms to identify patterns and 
+make predictions. There are three main types of machine learning: supervised learning, 
+unsupervised learning, and reinforcement learning. Popular machine learning frameworks 
+include TensorFlow, PyTorch, and scikit-learn. Machine learning is applied in various fields 
+such as image recognition, natural language processing, recommendation systems, and autonomous vehicles.

@@ -1,0 +1,6 @@
+Web development involves creating websites and web applications for the internet. 
+It is divided into front-end development (client-side) and back-end development (server-side). 
+Front-end developers work with HTML, CSS, and JavaScript to create user interfaces. 
+Back-end developers use languages like Python, Java, PHP, and Node.js to handle server logic 
+and databases. Modern web development often uses frameworks such as React, Angular, Vue.js 
+for front-end and Django, Flask, Express for back-end. Full-stack developers work on both sides.
